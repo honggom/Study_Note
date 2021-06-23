@@ -55,3 +55,6 @@
 ### Git
 ### DB
 - MySQL
+### Java
+### Spring
+### Python
