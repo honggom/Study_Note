@@ -36,3 +36,22 @@
   - 프림
   - 크루스칼
   - 다익스트라
+### 네트워크
+- HTTP
+- WAS
+- Web Server
+- TCP/IP
+### 운영체제
+- 리눅스
+### AWS
+### Docker
+### 보안
+- XSS
+- CSRF
+- SQL Injection
+- Open Redirect
+- Command Injection
+- Directory Traversal
+### Git
+### DB
+- MySQL
