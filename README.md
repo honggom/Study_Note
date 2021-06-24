@@ -3,12 +3,15 @@
 
 ### 자료구조
 - 배열
-- 해쉬
-- 스택
-- 큐
-- 트리
-- 힙
-- 그래프
+    - 연결 리스트 : https://honggom.tistory.com/24?category=865252
+    - 이중 연결 리스트 : https://honggom.tistory.com/35?category=865252
+- 해쉬 : 
+- 스택 : https://honggom.tistory.com/21?category=863992
+- 큐 : https://honggom.tistory.com/22?category=863993
+- 데크 : https://honggom.tistory.com/39?category=865224
+- 트리 :
+- 힙 :
+- 그래프 : 
 ### 알고리즘
 - 문자열
 - 정렬
@@ -38,6 +41,7 @@
   - 다익스트라
 ### 네트워크
 - HTTP
+    - uri, url, urn의 차이 : https://honggom.tistory.com/38?category=863357
 - WAS
 - Web Server
 - TCP/IP
@@ -55,6 +59,17 @@
 ### Git
 ### DB
 - MySQL
+    - text, char, varchar의 차이 : https://honggom.tistory.com/2?category=844625
 ### Java
-### Spring
+- 람다 : https://honggom.tistory.com/34?category=844630
+- 스트림 : https://honggom.tistory.com/37?category=844630
+- 접근 제한자 : https://honggom.tistory.com/36?category=844630
+- jvm, jdk, jre : https://honggom.tistory.com/3?category=844630
+### Spring (Spring Boot)
+- 타임리프 문법 : https://honggom.tistory.com/4?category=844633
 ### Python
+- 정렬 : https://honggom.tistory.com/29?category=865224
+- 상속 : https://honggom.tistory.com/33?category=865224
+- 크롤링 : https://honggom.tistory.com/28?category=865224
+- 접근 제어자 : https://honggom.tistory.com/23?category=865224
+- for문 index, value 동시 접근 : https://honggom.tistory.com/26?category=865224
