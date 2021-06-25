@@ -9,7 +9,7 @@
 - 스택 : https://honggom.tistory.com/21?category=863992
 - 큐 : https://honggom.tistory.com/22?category=863993
 - 데크 : https://honggom.tistory.com/39?category=865224
-- 트리 :
+- 트리 : https://honggom.tistory.com/40
 - 힙 :
 - 그래프 : 
 ### 알고리즘
